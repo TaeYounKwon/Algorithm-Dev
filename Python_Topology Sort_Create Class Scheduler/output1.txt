@@ -1,0 +1,45 @@
+Schedule with Credit and Starting Quarter
+
+Fall Quarter: 16Credit
+MAT0144CSC1230UFDN1000CSC3000CSC4898
+
+Winter Quarter: 14Credit
+MAT0145CSC2430UFDN2000CSC4941
+
+Spring Quarter: 14Credit
+CSC2431CSC3220MAT2360
+
+Summer Quarter: 0Credit
+NoClass
+
+Fall Quarter: 14Credit
+CSC3221UCOR3000UFDN3100
+
+Winter Quarter: 16Credit
+MAT1010CSC3750CSC3011UCOL1000
+
+Spring Quarter: 15Credit
+MAT1221CSC3150CSC4750
+
+Summer Quarter: 0Credit
+NoClass
+
+Fall Quarter: 10Credit
+MAT1720WRI1100
+
+Winter Quarter: 18Credit
+CSC4410CSC4151WRI1000BUS3620
+
+Spring Quarter: 8Credit
+CSC4152BUS3614
+
+Summer Quarter: 0Credit
+NoClass
+
+Fall Quarter: 0Credit
+NoClass
+
+Winter Quarter: 5Credit
+COM4265
+
+TotalClass: 31

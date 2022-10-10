@@ -1,0 +1,30 @@
+Schedule without Constraint
+
+Fall Quarter: 
+MAT0144CSC1230UFDN1000CSC3000
+
+Winter Quarter: 
+MAT0145CSC2430UFDN2000CSC4941
+
+Spring Quarter: 
+CSC2431CSC3220MAT2360UCOR3000UFDN3100CSC3150
+
+Summer Quarter: 
+
+
+Fall Quarter: 
+CSC3221
+
+Winter Quarter: 
+MAT1010CSC3750CSC3011CSC4410CSC4151
+
+Spring Quarter: 
+MAT1221CSC4750CSC4152
+
+Summer Quarter: 
+
+
+Fall Quarter: 
+MAT1720
+
+key class(class With Prerequisits): 24
